@@ -1,4 +1,7 @@
 # AGH-WIET-INF-WDI-2020
+Wstęp do informatyki
+
+## Ćwiczenia
 1. [Proste programy z pętlami cz. 1](https://github.com/proman3419/AGH-WIET-INF-WDI-2020/tree/master/1)
 2. [Proste programy z pętlami cz. 2](https://github.com/proman3419/AGH-WIET-INF-WDI-2020/tree/master/2)
 3. [Tablice jednowymiarowe](https://github.com/proman3419/AGH-WIET-INF-WDI-2020/tree/master/3)
